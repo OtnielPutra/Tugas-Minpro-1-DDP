@@ -15,3 +15,12 @@ Gambar 3 : Read
 
 <img width="1047" height="344" alt="update" src="https://github.com/user-attachments/assets/0813cff0-89a3-4299-8081-3cbd991e070f" />
 Gambar 4 : Update
+
+<img width="357" height="101" alt="image" src="https://github.com/user-attachments/assets/c389c2c3-43bd-49ec-966e-0c7033ff49cc" />
+Gambar 5 : Output Create
+
+<img width="619" height="135" alt="image" src="https://github.com/user-attachments/assets/239b1924-21ae-4713-95c7-f023359557b0" />
+Gambar 6 : Output Read
+
+<img width="1101" height="101" alt="image" src="https://github.com/user-attachments/assets/cf2abd85-654f-4d89-a390-2275b1d11937" />
+Gambar 7 : Output Update
